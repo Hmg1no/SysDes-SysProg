@@ -1,0 +1,549 @@
+(ExpressProject "CMPE310_schematic"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 S003 (4178961)  [3/6/2024]-[05/05/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\cmpe310_schematic-pspicefiles\footprints\16v8.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\28f010.txt"
+        (Type "EDIF Netlist"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls02.txt"
+        (Type "Unknown"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls04.txt"
+        (Type "EDIF Netlist"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls10.txt"
+        (Type "Schematic Library"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls14.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls32.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls164.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls244.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls245.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls251.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls373.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\74ls374.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\100r110_1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\8086min.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\8253.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\8255.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\8259a.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\8279.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\8284a.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\allegro.jrl"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\allegro.jrl,1"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\ax300x100028.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\ax300x100028.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\ax300x100028.log,1"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\ax300x100028.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\batch_drc.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\batch_drc.log,1"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\batch_drc.log,2"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\c.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\cap.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\conn_dsub_9-p.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\conn_jack_pwr.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\conn_pcb_30x2.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\conn_trblk_2.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\cpcyl1d200ls100031.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\cpcyl1d200ls100031.log"
+        (Type "Schematic Design"))
+      (File
+         ".\cmpe310_schematic-pspicefiles\footprints\cpcyl1d200ls100031.log,1"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\cpcyl1d200ls100031.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\create_devices.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\crystal.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\cy7c199.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\cyld225ls100031.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\cyld225ls100031.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\cyld225ls100031.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dax1do35.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dax1do35.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dbdoctor.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dbdoctor.log,1"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dbdoctor.log,2"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\devices.map"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\diode.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip100t_llb_pad1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip100t_llb_pad2.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip100t_llb_pad3_1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip100t_llb_pad4_1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip100t_llb_pad5_1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip1008w300l400.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip1008w300l400.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10014w300l700.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10014w300l700.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10016w300l800.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10016w300l800.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10016w300l875.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10016w300l875.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10018w300l900.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10018w300l900.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10020w300l1000.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10020w300l1000.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10020w300l1000.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10024w300l1275.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10024w300l1275.log"
+        (Type "Schematic Design"))
+      (File
+         ".\cmpe310_schematic-pspicefiles\footprints\dip10024w300l1275.log,1"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10024w300l1275.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10024w600l1200.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10024w600l1200.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10024w600l1200.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10028w300l1400.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10028w300l1400.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10028w300l1400.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10028w600l1400.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10028w600l1400.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10028w600l1400.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10032w600l1600.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10032w600l1600.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10032w600l1600.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10040w600l2025.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10040w600l2025.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dip10040w600l2025.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dsubrp318tm9.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dsubrp318tm9.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dsubrp318tm9.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dsubt_llb_hole1_1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dsubt_llb_pad3.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dsubt_llb_pad4.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\dump_libraries.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\hdsp5503.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\header_7x2.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\header_7x2__1.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\header_12.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\header_14x2.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper1.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper1.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper1.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper1.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper3.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper3.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper3.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper3.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper8.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper8.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper8.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\jumper8.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\lcd.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\lcd_amc2004a_rev1.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\lcd_amc2004a_rev1.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\lcd_hole_1.pad"
+        (Type "Orcad Project"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\lcon100t_llb_pad1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\led.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\led_hdsp_h101.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\led_hdsp_h101.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\led_pad.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\master.tag"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\max235.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\max667.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\mthole1_rev1.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\mthole1_rev1.log"
+        (Type "Schematic Library"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\mthole1_rev1.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\mthole1_rev1.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pc16550d.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pot.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pts645.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pts645.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pts645.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pwr_jack.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pwr_jack.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pwr_jack.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pwr_jack_pad1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pwr_jack_pad2.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pwr_pad1_1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pwr_trm_blk.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\pwr_trm_blk.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\r.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\refresh_padstack.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\resistor_sip_6.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\resistor_sip_9.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\r-pack.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\sip_llb_pad1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\sip_llb_pad2.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\siptml6006.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\siptml6006.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\siptml6006.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\siptml9009.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\siptml9009.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\siptml120012.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\siptml120012.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\sw_dip-12.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\sw_pts645_1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\swtactspst2sm.txt"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tm_axial_llb_pad2.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tm_cap_p_llb_pad3.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tm_cap_p_llb_pad4.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tm_cylnd_llb_pad3.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tm_cylnd_llb_pad4.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tm_diode_llb_pad13.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tm_diode_llb_pad14.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco_hole1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco_pad1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco_pad2.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh14j7.dra"
+        (Type "Report"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh14j7.log"
+        (Type "Report"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh14j7.psm"
+        (Type "Report"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh14j15.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh14j15.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh30.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh30.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh30.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh60.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh60.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\tyco100vh60.psm"
+        (Type "Report"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\via1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\vres_llb_pad17_1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\vres_llb_pad24_1.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\vres1.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\vres1.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\vres1.psm"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\xtal.pad"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\xtal_fox.dra"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\xtal_fox.log"
+        (Type "Schematic Design"))
+      (File ".\cmpe310_schematic-pspicefiles\footprints\xtal_fox.psm"
+        (Type "Schematic Design")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\cmpe310_schematic.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (74S20
+      (FullPartName "74S20.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\74S.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (SG3503
+      (FullPartName "SG3503.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MISCPOWER.OLB")
+      (DeviceIndex "0"))
+    (AND4
+      (FullPartName "AND4.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (AND2
+      (FullPartName "AND2.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (54L86
+      (FullPartName "54L86.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\74L.OLB")
+      (DeviceIndex "0"))
+    (AND5
+      (FullPartName "AND5.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (7404
+      (FullPartName "7404.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\7400.OLB")
+      (DeviceIndex "0"))
+    (OR2
+      (FullPartName "OR2.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (AND3
+      (FullPartName "AND3.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (AND10
+      (FullPartName "AND10.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (8259A
+      (FullPartName "8259A.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (82596CA/FP
+      (FullPartName "82596CA/FP.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MICROPROCESSOR.OLB")
+      (DeviceIndex "0"))
+    (8086MAX
+      (FullPartName "8086MAX.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MICROPROCESSOR.OLB")
+      (DeviceIndex "0"))
+    (8086MIN
+      (FullPartName "8086MIN.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MICROPROCESSOR.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (MAX623
+      (FullPartName "MAX623.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MISCPOWER.OLB")
+      (DeviceIndex "0"))
+    (DS1833/SOT223
+      (FullPartName "DS1833/SOT223.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MISCPOWER.OLB")
+      (DeviceIndex "0"))
+    (DS1813/TO92
+      (FullPartName "DS1813/TO92.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MISCPOWER.OLB")
+      (DeviceIndex "0"))
+    (ADM698
+      (FullPartName "ADM698.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MISCPOWER.OLB")
+      (DeviceIndex "0"))
+    (8279
+      (FullPartName "8279.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TACT2150
+      (FullPartName "TACT2150.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\ORCADX_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 615"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1136 24 633")
+        (Scroll "223 160")
+        (Zoom "158")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\HAZZEEE\ONEDRIVE\DOCUMENTS\COLLEGE\COMPE\310\PROJECT4\CMPE310_SCHEMATIC\CMPE310_SCHEMATIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1136 24 633")
+        (Scroll "-147 0")
+        (Zoom "83")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\HAZZEEE\ONEDRIVE\DOCUMENTS\COLLEGE\COMPE\310\PROJECT4\CMPE310_SCHEMATIC\CMPE310_SCHEMATIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2")))
+  (MPSSessionName "Hazzeee")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\OrCADX_23.1\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))
